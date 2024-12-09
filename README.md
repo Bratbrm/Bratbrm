@@ -31,6 +31,6 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/ask2001/"><img src="https://img.shields.io/badge/-Aditya%20Sunit%20Kanoi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:adityakanoiofficial@gmail.com"><img src="https://img.shields.io/badge/-Adityakanoi-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="www.linkedin.com/in/bmrds"><img src="https://img.shields.io/badge/-Brat%20Munñoz%20Rojas-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:bratbrm@gmail.com"><img src="https://img.shields.io/badge/-Bratbrm-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>

@@ -10,11 +10,11 @@
 
 ### 🛠 &nbsp;Tecnologias - Web
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,jquery,php,figma,angular,go)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,jquery,php,figma,angular,go,ts)](https://skillicons.dev)
 
 ### 🗃 &nbsp;Database
 
-
+[![My Skills](https://skillicons.dev/icons?i=mysql,firebase)](https://skillicons.dev)
 
 ### 🧰 &nbsp;Herramientas y Control de Versiones
 

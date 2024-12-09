@@ -28,7 +28,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,codepen,postman,visualstudio,vscode,github)](https://skillicons.dev)
 
-### 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 &nbsp;Contacto conmigo
 
 <p align="left">
 <a href="https://www.linkedin.com/in/bmrds"><img src="https://img.shields.io/badge/-Brat%20Munñoz%20Rojas-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>

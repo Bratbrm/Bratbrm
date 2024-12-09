@@ -12,13 +12,21 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,jquery,php,figma,angular,go,ts)](https://skillicons.dev)
 
+### 🛠 &nbsp;Tecnologias - Movil
+
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin)](https://skillicons.dev)
+
+### 🛠 &nbsp;Tecnologias - Escritorio
+
+[![My Skills](https://skillicons.dev/icons?i=java,dotnet,cs)](https://skillicons.dev)
+
 ### 🗃 &nbsp;Database
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,firebase)](https://skillicons.dev)
 
 ### 🧰 &nbsp;Herramientas y Control de Versiones
 
-
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,codepen,postman,visualstudio,vscode,github)](https://skillicons.dev)
 
 ### 🤝🏻 &nbsp;Connect with Me
 

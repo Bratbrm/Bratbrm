@@ -1,36 +1,22 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hola! Soy Brat</h2>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
+  <img alt="Brat Muñoz Rojas, Software Engineer en Ica, Perú" src="./assets/banner-light.svg" width="100%">
+</picture>
 
-### 👨🏻‍💻 &nbsp;Sobre Mi
+Hola, soy Brat. Terminé la carrera de desarrollo de software y me gusta explorar nuevas tecnologías y construir soluciones de software. Ahora estoy estudiando inglés.
 
-💡 &nbsp;Me gusta explorar nuevas tecnol.\
-🎓 &nbsp;Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y trucos rápidos.\
-🌱 &nbsp;Actualmente termine la carrera de desarrollador de software y en estos momentos estoy estudiando Ingles.\
-💬 &nbsp;No dudes en comunicarte conmigo para obtener asesoramiento.\
-✉️ &nbsp;Puedes enviarme un correo electrónico a bratbrm@gmail.com! Intentaré responder lo antes posible.
+¿Necesitas asesoramiento? Escríbeme e intentaré responder lo antes posible.
 
-### 🛠 &nbsp;Tecnologias - Web
+<a href="https://www.linkedin.com/in/bmrds"><img alt="Conectar en LinkedIn" src="https://img.shields.io/badge/Conectar_en_LinkedIn-0A66C2?style=for-the-badge"></a>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,jquery,php,figma,angular,go,ts)](https://skillicons.dev)
+o por correo: [bratbrm@gmail.com](mailto:bratbrm@gmail.com)
 
-### 🛠 &nbsp;Tecnologias - Movil
+## Tecnologías
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin)](https://skillicons.dev)
-
-### 🛠 &nbsp;Tecnologias - Escritorio
-
-[![My Skills](https://skillicons.dev/icons?i=java,dotnet,cs)](https://skillicons.dev)
-
-### 🗃 &nbsp;Database
-
-[![My Skills](https://skillicons.dev/icons?i=mysql,firebase)](https://skillicons.dev)
-
-### 🧰 &nbsp;Herramientas y Control de Versiones
-
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,codepen,postman,visualstudio,vscode,github)](https://skillicons.dev)
-
-### 🤝🏻 &nbsp;Contacto conmigo
-
-<p align="left">
-<a href="https://www.linkedin.com/in/bmrds"><img src="https://img.shields.io/badge/-Brat%20Munñoz%20Rojas-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:bratbrm@gmail.com"><img src="https://img.shields.io/badge/-Bratbrm-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-</p>
+| Área | Stack |
+| :-- | :-- |
+| **Web** | <img alt="TypeScript, JavaScript, Angular, HTML, CSS, Bootstrap, jQuery, PHP, Go" src="https://skillicons.dev/icons?i=ts,js,angular,html,css,bootstrap,jquery,php,go&perline=5" height="96"> |
+| **Móvil** | <img alt="Java, Kotlin" src="https://skillicons.dev/icons?i=java,kotlin" height="44"> |
+| **Escritorio** | <img alt="C#, .NET, Java" src="https://skillicons.dev/icons?i=cs,dotnet,java" height="44"> |
+| **Bases de datos** | <img alt="MySQL, Firebase" src="https://skillicons.dev/icons?i=mysql,firebase" height="44"> |
+| **Herramientas** | <img alt="VS Code, Visual Studio, Android Studio, Postman, Figma, CodePen, GitHub" src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,postman,figma,codepen,github&perline=5" height="96"> |

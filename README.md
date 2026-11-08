@@ -1,9 +1,6 @@
 # Hola, soy Brat
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
-  <img alt="Brat Muñoz Rojas, Software Engineer en Ica, Perú" src="./assets/banner-light.svg" width="100%">
-</picture>
+<img alt="Collage de logotipos de lenguajes y herramientas de desarrollo" src="./assets/banner-stack.png" width="100%">
 
 <p align="center">
   <b>Desarrollo software para web, móvil y escritorio, y aprendo algo nuevo en cada proyecto.</b>
